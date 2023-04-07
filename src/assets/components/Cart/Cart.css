@@ -1,0 +1,36 @@
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.cyan {
+  background-color: cyan;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.bordered {
+  border: 1px solid #ddd;
+  border-radius: 15px;
+}
